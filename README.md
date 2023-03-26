@@ -1,7 +1,5 @@
 # My Med App !
 
-### A CPSC 210 Project
-
 ### Project Overview
 
 <p>The design goal of this project entails implementing a working application that enables users to efficiently track 
