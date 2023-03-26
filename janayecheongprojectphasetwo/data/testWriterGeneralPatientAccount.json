@@ -1,0 +1,53 @@
+{
+    "symptoms": "real",
+    "name": "My patient account",
+    "id": 12155,
+    "prescriptions": [
+        {
+            "dosage": "50 mg",
+            "schedule": [
+                "08:00",
+                "14:00"
+            ],
+            "number": 30,
+            "directions": "refrigerate bottle",
+            "imprint": "CL34",
+            "name": "rizatriptan",
+            "buffer": 6,
+            "counter": 0,
+            "lastRefill": "2023-02-14",
+            "refillDate": "2023-03-01",
+            "frequency": 2
+        },
+        {
+            "dosage": "10 mg",
+            "schedule": ["08:00"],
+            "number": 60,
+            "directions": "take with food",
+            "imprint": "P20",
+            "name": "escitalopram",
+            "buffer": 24,
+            "counter": 0,
+            "lastRefill": "2023-01-20",
+            "refillDate": "2023-03-21",
+            "frequency": 1
+        },
+        {
+            "dosage": "50 mg",
+            "schedule": [
+                "08:00",
+                "15:00",
+                "22:00"
+            ],
+            "number": 50,
+            "directions": "take before bed",
+            "imprint": "biocraft 14",
+            "name": "oxacillin",
+            "buffer": 7,
+            "counter": 0,
+            "lastRefill": "2023-12-01",
+            "refillDate": "2023-12-17",
+            "frequency": 3
+        }
+    ]
+}
