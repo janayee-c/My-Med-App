@@ -1,4 +1,4 @@
-# My Med App !
+# My Med App ! 💊
 
 ### Project Overview
 
